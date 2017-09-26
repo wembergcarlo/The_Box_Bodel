@@ -42,6 +42,9 @@ body {
   padding: 40px;
   text-align: center;
   width: 400px;
+  margin: 0 auto;
+  height: 1000px;
+  overflow: scroll;
 }
 
 h1 {
@@ -58,6 +61,7 @@ h2 {
   text-align: center;
   border:1px dotted red;
   padding: 20px 30px;
+  margin: 30px 20px;
 }
 
 h3 {
@@ -77,6 +81,8 @@ p {
 
 .pull-quote {
   width:350px;
+  margin:0 auto;
+
 }
 
 .byline {
